@@ -1,1 +1,1 @@
-# iklim-verilerinde-trend-tahmini-i-in-basit-makine-renimi-modellerinin-kar-la-t-rmal-incelemesi
+İKLİM VERİLERİNDE TREND TAHMİNİ İÇİN MAKİNE ÖĞRENİMİ MODELLERİNİN KARŞILAŞTIRMALI İNCELEMESİ, 22.10.2025, 360125051 Mustafa Eraydın, 360125050 Şevki Bilgiç, 360125036 Meva Su Ulusal, 360125007 Muhammed Eren taştan
