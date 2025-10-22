@@ -1,0 +1,1 @@
+# iklim-verilerinde-trend-tahmini-i-in-basit-makine-renimi-modellerinin-kar-la-t-rmal-incelemesi
